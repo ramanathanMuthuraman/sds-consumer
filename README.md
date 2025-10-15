@@ -1,12 +1,12 @@
 # SDS Consumer
 
-This React application demonstrates how to consume the SDS (Simple Design System) library components and leverage Figma's Code Connect panel for automated code generation. Built with Vite for optimal development experience.
+This React application demonstrates how to consume the [SDS (Simple Design System) library](https://github.com/ramanathanMuthuraman/sds-library) components and leverage Figma's Code Connect panel for automated code generation. Built with Vite for optimal development experience.
 
 ## Overview
 
 This project showcases:
 
-- Integration of `sds-library` components
+- Integration of [`sds-library`](https://github.com/ramanathanMuthuraman/sds-library) components
 - Utilization of Figma's Code Connect panel
 - Streamlined design-to-development workflow
 
@@ -72,7 +72,7 @@ npm run dev
 ## Technical Stack
 
 - React 18.2.0
-- SDS Library (`sds-library`)
+- [SDS Library](https://github.com/ramanathanMuthuraman/sds-library) (`sds-library`)
 - React Aria Components
 - Vite for build tooling
 
