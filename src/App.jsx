@@ -12,7 +12,6 @@ import {
   TextContentTitle,
   TextHeading,
 } from "sds-library";
-import "sds-library/style";
 
 function App() {
   return (
